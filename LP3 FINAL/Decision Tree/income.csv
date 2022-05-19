@@ -1,0 +1,15 @@
+id,age,income,gender,status
+1,<21,High,M,Single
+2,<21,High,M,Married
+3,21-35,High,M,Single
+4,>35,Medium,M,Single
+5,>35,Low,F,Single
+6,>35,Low,F,Married
+7,21-35,Low,F,Married
+8,<21,Medium,M,Single
+9,<21,Low,F,Married
+10,>35,Medium,F,Single
+11,<21,Medium,F,Married
+12,21-35,Medium,M,Married
+13,21-35,High,F,Single
+14,>35,Medium,M,Married
